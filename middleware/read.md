@@ -1,0 +1,1 @@
+Developed a CRUD API where we can GET, POST, PUT and DELETE members as hard coded objects in the Members file. 
